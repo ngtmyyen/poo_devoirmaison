@@ -1,0 +1,2 @@
+INSERT INTO article (id, creation, title, content) VALUES (1, CURRENT_TIMESTAMP(), 'Premier article', 'C''est le premier contenu !');
+INSERT INTO article (id, creation, title, content) VALUES (2, CURRENT_TIMESTAMP(), 'Second article', 'C''est un autre contenu !');

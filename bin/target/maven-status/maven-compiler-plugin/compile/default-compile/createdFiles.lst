@@ -1,0 +1,5 @@
+com\example\tp5\Tp5Application.class
+com\example\tp5\controller\HelloWorldController.class
+com\example\tp5\modele\Adresse.class
+com\example\tp5\controller\AddressController.class
+com\example\tp5\modele\AdresseRepository.class
